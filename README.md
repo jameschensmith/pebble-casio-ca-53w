@@ -1,6 +1,6 @@
 Casio CA-53W - The Retro Calculator Watch for the Pebble
 ========================================================
-Step back into 80's and 90's pop culture with the [Casio CA-53W][1], the retro calculator watch worn by Walter White from "Breaking Bad" and Marty McFly from "Back to the Future". Hand pixelated by myself, this [Pebble][2] watchface stays true to the original with every minute detail. From the location of each part of the time and date display to the text decorated around the watchface, I hope that you enjoy wearing this on your wrist, and possibly feel a little sense of nostalgia.
+Step back into 80's and 90's pop culture with the [Casio CA-53W][1], the retro calculator watch worn by Walter White from "Breaking Bad" and Marty McFly from "Back to the Future". Hand pixelated by myself, this [Pebble][2] watchface stays true to the [original][3] with every minute detail. From the location of each part of the time and date display to the text decorated around the watchface, I hope that you enjoy wearing this on your wrist, and possibly feel a little sense of nostalgia.
 
 If you found an issue, please report it here.
 
@@ -26,8 +26,9 @@ Licensed under the MIT license: http://opensource.org/licenses/MIT
 
 Further links
 -------------
-- [CloudPebble IDE][3]
+- [CloudPebble IDE][4]
 
 [1]: https://github.com/poeia/x
 [2]: https://www.pebble.com/
-[3]: https://cloudpebble.net/
+[3]: http://www.shopcasio.com/product/databank-ca53w-1-black-face-black-band
+[4]: https://cloudpebble.net/
