@@ -1,3 +1,9 @@
+/*
+ * Casio CA-53W - The Retro Calculator Watch for the Pebble
+ * Copyright (c) 2016 James Smith (jamessmithsmusic@gmail.com)
+ * Licensed under the MIT license: http://opensource.org/licenses/MIT
+ */
+
 #include <pebble.h>
 
 static Window *windowMain;
@@ -129,7 +135,7 @@ static void main_window_unload(Window *window) {
 
 static void update_time(void) {
   // Get a tm structure
-  time_t temp = time(NULL); 
+  time_t temp = time(NULL);
   struct tm *tickTime = localtime(&temp);
 
   // Set the current hour, minute, and second
