@@ -18,35 +18,32 @@
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/CA-53W-BG.png",
-                    "name": "IMAGE_BACKGROUND",
+                    "file": "images/ICON-BT-DIS.png",
+                    "name": "IMAGE_ICON_BT_DIS",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "characterRegex": "[A-Z]",
-                    "file": "fonts/FONT-DIGITAL-7-DAY",
-                    "name": "FONT_DIGITAL_20",
+                    "file": "images/ICON-BT-CON.png",
+                    "name": "IMAGE_ICON_BT_CON",
                     "targetPlatforms": null,
-                    "type": "font"
+                    "type": "bitmap"
                 },
                 {
-                    "characterRegex": "[APM ]",
-                    "file": "fonts/FONT-DROID-PERIOD",
-                    "name": "FONT_DROID_10",
+                    "file": "images/ICON-BAT-FULL.png",
+                    "name": "IMAGE_ICON_BAT_FULL",
                     "targetPlatforms": null,
-                    "type": "font"
-                },
-                {
-                    "characterRegex": "[0-9:. -]",
-                    "file": "fonts/FONT-DIGITAL-7-TIME",
-                    "name": "FONT_DIGITAL_28",
-                    "targetPlatforms": null,
-                    "type": "font"
+                    "type": "bitmap"
                 },
                 {
                     "file": "images/ICON-BAT-EMPTY.png",
                     "name": "IMAGE_ICON_BAT_EMPTY",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/ICON-BAT-CHARGING.png",
+                    "name": "IMAGE_ICON_BAT_CHARGING",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
@@ -63,28 +60,31 @@
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/ICON-BAT-CHARGING.png",
-                    "name": "IMAGE_ICON_BAT_CHARGING",
+                    "file": "images/CA-53W-BG.png",
+                    "name": "IMAGE_BACKGROUND",
                     "targetPlatforms": null,
                     "type": "bitmap"
                 },
                 {
-                    "file": "images/ICON-BAT-FULL.png",
-                    "name": "IMAGE_ICON_BAT_FULL",
+                    "characterRegex": "[APM ]",
+                    "file": "fonts/FONT-DROID-PERIOD",
+                    "name": "FONT_DROID_10",
                     "targetPlatforms": null,
-                    "type": "bitmap"
+                    "type": "font"
                 },
                 {
-                    "file": "images/ICON-BT-DIS.png",
-                    "name": "IMAGE_ICON_BT_DIS",
+                    "characterRegex": "[0-9:. -]",
+                    "file": "fonts/FONT-DIGITAL-7-TIME",
+                    "name": "FONT_DIGITAL_28",
                     "targetPlatforms": null,
-                    "type": "bitmap"
+                    "type": "font"
                 },
                 {
-                    "file": "images/ICON-BT-CON.png",
-                    "name": "IMAGE_ICON_BT_CON",
+                    "characterRegex": "[A-Z]",
+                    "file": "fonts/FONT-DIGITAL-7-DAY",
+                    "name": "FONT_DIGITAL_20",
                     "targetPlatforms": null,
-                    "type": "bitmap"
+                    "type": "font"
                 }
             ]
         },
@@ -92,13 +92,12 @@
         "targetPlatforms": [
             "aplite",
             "basalt",
-            "diorite",
-            "emery"
+            "diorite"
         ],
         "uuid": "4622ab17-f7a3-45b2-9054-684b48f17384",
         "watchapp": {
             "watchface": false
         }
     },
-    "version": "0.9.0"
+    "version": "1.0.0"
 }
