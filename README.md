@@ -28,7 +28,7 @@ Further links
 -------------
 - [CloudPebble IDE][4]
 
-[1]: https://github.com/poeia/x
+[1]: https://apps.getpebble.com/en_US/application/581d407a9cbbafcd64000160
 [2]: https://www.pebble.com/
 [3]: http://www.shopcasio.com/product/databank-ca53w-1-black-face-black-band
 [4]: https://cloudpebble.net/
