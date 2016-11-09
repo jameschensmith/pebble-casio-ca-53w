@@ -11,7 +11,134 @@
         "resources": {
             "media": [
                 {
+                    "file": "images/IMAGE-PERIOD-PM.png",
+                    "name": "IMAGE_PERIOD_PM",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-PERIOD-AM.png",
+                    "name": "IMAGE_PERIOD_AM",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-DASH.png",
+                    "name": "IMAGE_NUM_DASH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-COLON.png",
+                    "name": "IMAGE_NUM_COLON",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-SA.png",
+                    "name": "IMAGE_DAY_SA",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-FR.png",
+                    "name": "IMAGE_DAY_FR",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-TH.png",
+                    "name": "IMAGE_DAY_TH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-WE.png",
+                    "name": "IMAGE_DAY_WE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-TU.png",
+                    "name": "IMAGE_DAY_TU",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-MO.png",
+                    "name": "IMAGE_DAY_MO",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-DAY-SU.png",
+                    "name": "IMAGE_DAY_SU",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-9.png",
+                    "name": "IMAGE_NUM_9",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-8.png",
+                    "name": "IMAGE_NUM_8",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-7.png",
+                    "name": "IMAGE_NUM_7",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-6.png",
+                    "name": "IMAGE_NUM_6",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-5.png",
+                    "name": "IMAGE_NUM_5",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-4.png",
+                    "name": "IMAGE_NUM_4",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-3.png",
+                    "name": "IMAGE_NUM_3",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-2.png",
+                    "name": "IMAGE_NUM_2",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-1.png",
+                    "name": "IMAGE_NUM_1",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/IMAGE-NUM-0.png",
+                    "name": "IMAGE_NUM_0",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
                     "file": "images/ICON-MENU.png",
+                    "memoryFormat": "1Bit",
                     "menuIcon": true,
                     "name": "IMAGE_ICON_MENU",
                     "targetPlatforms": null,
@@ -64,27 +191,6 @@
                     "name": "IMAGE_BACKGROUND",
                     "targetPlatforms": null,
                     "type": "bitmap"
-                },
-                {
-                    "characterRegex": "[APM ]",
-                    "file": "fonts/FONT-DROID-PERIOD",
-                    "name": "FONT_DROID_10",
-                    "targetPlatforms": null,
-                    "type": "font"
-                },
-                {
-                    "characterRegex": "[0-9:. -]",
-                    "file": "fonts/FONT-DIGITAL-7-TIME",
-                    "name": "FONT_DIGITAL_28",
-                    "targetPlatforms": null,
-                    "type": "font"
-                },
-                {
-                    "characterRegex": "[A-Z]",
-                    "file": "fonts/FONT-DIGITAL-7-DAY",
-                    "name": "FONT_DIGITAL_20",
-                    "targetPlatforms": null,
-                    "type": "font"
                 }
             ]
         },
@@ -99,5 +205,5 @@
             "watchface": true
         }
     },
-    "version": "1.0.0"
+    "version": "1.1.0"
 }
